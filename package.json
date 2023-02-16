@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ascii-cats": "^1.1.1",
+    "inquirer": "^8.0.0"
+  }
+}
